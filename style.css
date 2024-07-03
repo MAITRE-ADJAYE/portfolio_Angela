@@ -293,7 +293,6 @@ main {
     width: 450;
     object-fit: cover;
     border-radius: 80px;
-    border: 2px solid #000;
     position: relative;
     z-index: -2;
 }
